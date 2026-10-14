@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "anti-defensive-writing-tutorial",
+  "version": "1.0.0",
+  "description": "Chinese and English skills for clear, direct tutorials and technical explanations.",
+  "license": "MIT",
+  "keywords": [
+    "tutorials",
+    "technical-writing",
+    "anti-defensive-writing",
+    "chinese",
+    "english"
+  ],
+  "author": {
+    "name": "zhu-chen",
+    "url": "https://github.com/zhu-chen"
+  },
+  "homepage": "https://github.com/zhu-chen/anti-defensive-writing-tutorial",
+  "repository": "https://github.com/zhu-chen/anti-defensive-writing-tutorial"
+}

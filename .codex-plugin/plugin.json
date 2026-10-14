@@ -1,0 +1,31 @@
+{
+  "name": "anti-defensive-writing-tutorial",
+  "version": "1.0.0",
+  "description": "Chinese and English skills for clear, direct tutorials and technical explanations.",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Anti-Defensive Writing · Tutorial",
+    "shortDescription": "Clear tutorials in Chinese and English",
+    "longDescription": "Review and revise defensive language in tutorials, technical explanations, and learning materials. Explain mechanisms, conditions, and tradeoffs directly while preserving technical facts and teaching scope. Includes Chinese and English skills.",
+    "category": "Productivity",
+    "capabilities": [
+      "Tutorial editing",
+      "Technical writing",
+      "Chinese and English editing"
+    ],
+    "defaultPrompt": [
+      "请修改这段教程中的防御性表述，保留技术事实与必要条件。",
+      "Revise this tutorial to explain mechanisms and conditions directly. Preserve technical facts and scope."
+    ],
+    "developerName": "zhu-chen",
+    "websiteURL": "https://github.com/zhu-chen/anti-defensive-writing-tutorial",
+    "supportURL": "https://github.com/zhu-chen/anti-defensive-writing-tutorial/issues"
+  },
+  "author": {
+    "name": "zhu-chen",
+    "url": "https://github.com/zhu-chen"
+  },
+  "homepage": "https://github.com/zhu-chen/anti-defensive-writing-tutorial",
+  "repository": "https://github.com/zhu-chen/anti-defensive-writing-tutorial"
+}
